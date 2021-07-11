@@ -12,3 +12,4 @@ console.log(Week2)
 console.log(Object.values(Week2))
 console.log(Object.keys(Week2))
 console.log(Object.entries(Week2))
+
