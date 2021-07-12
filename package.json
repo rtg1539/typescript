@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npx ts-node test.ts"
+    "test": "npx ts-node src/basic/enum.ts"
   },
   "repository": {
     "type": "git",
