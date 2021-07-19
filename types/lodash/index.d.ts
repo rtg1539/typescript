@@ -1,4 +1,4 @@
-// lodash.d.ts
+// index.d.ts
 
 // 모듈의 타입 선언(Ambient module declaration)
 declare module 'lodash' {

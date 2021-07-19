@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npx ts-node src/basic/guards.ts"
+    "test": "npx ts-node main.ts"
   },
   "repository": {
     "type": "git",
