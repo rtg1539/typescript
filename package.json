@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "lodash": "^4.17.21",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
   },
